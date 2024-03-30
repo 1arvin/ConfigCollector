@@ -1,9 +1,8 @@
-trojan://telegram-id-privatevpns@18.170.172.72:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|145.8
-trojan://telegram-id-privatevpns@3.254.25.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.17
-trojan://telegram-id-privatevpns@34.255.76.2:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|173.54
-trojan://telegram-id-directvpn@16.16.87.171:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|174.25
-trojan://telegram-id-directvpn@3.122.98.43:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|176.01
-trojan://telegram-id-directvpn@3.65.250.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|173.33
-trojan://cadf7475-3388-4cf9-baa2-b07739126a43@ru01.freeflyingcloud.xyz:30002?security=tls&sni=ru01.freeflyingcloud.xyz&type=tcp#🇷🇺|@oneclickvpnkeys|203.33
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com&type=ws#🚩|@v2ray_swhil|1.58
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.74
+trojan://telegram-id-privatevpns@18.170.172.72:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|84.11
+trojan://telegram-id-privatevpns@3.254.25.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|70.71
+trojan://telegram-id-privatevpns@34.255.76.2:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|85.33
+trojan://telegram-id-directvpn@3.122.98.43:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|92.6
+trojan://telegram-id-directvpn@3.65.250.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|162.61
+trojan://cadf7475-3388-4cf9-baa2-b07739126a43@ru01.freeflyingcloud.xyz:30002?security=tls&sni=ru01.freeflyingcloud.xyz&type=tcp#🇷🇺|@oneclickvpnkeys|127.93
+trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com&type=ws#🚩|@v2ray_swhil|5.2
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|6.26
