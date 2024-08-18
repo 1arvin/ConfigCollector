@@ -1,7 +1,8 @@
-trojan://telegram-id-privatevpns@3.11.234.104:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|147.41
-trojan://telegram-id-privatevpns@176.34.182.236:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|145.98
-trojan://telegram-id-privatevpns@52.49.152.140:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|146.48
-trojan://telegram-id-directvpn@3.123.54.60:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|157.93
-trojan://telegram-id-directvpn@3.75.111.206:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|159.14
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.87
-trojan://auto@104.21.90.210:2053?host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws#🚩|@vpn_tehran|1.89
+trojan://telegram-id-privatevpns@52.49.152.140:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|87.29
+trojan://telegram-id-privatevpns@13.60.133.162:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|125.41
+trojan://telegram-id-privatevpns@16.170.18.235:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|124.16
+trojan://telegram-id-directvpn@3.75.111.206:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|109.54
+trojan://telegram-id-directvpn@13.53.247.98:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|124.8
+trojan://telegram-id-directvpn@13.50.195.143:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|125.01
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.02
+trojan://auto@104.21.90.210:2053?host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws#🚩|@vpn_tehran|2.2
