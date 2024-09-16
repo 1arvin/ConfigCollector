@@ -1,9 +1,8 @@
-trojan://telegram-id-privatevpns@16.170.67.94:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|174.2
-trojan://telegram-id-privatevpns@13.53.128.200:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|177.36
-trojan://telegram-id-privatevpns@3.79.73.100:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|159.85
-trojan://telegram-id-directvpn@16.16.117.171:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|174.22
-trojan://telegram-id-directvpn@35.180.16.149:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|156.85
-trojan://telegram-id-directvpn@35.181.230.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|153.63
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.01
-trojan://auto@104.21.90.210:2053?host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws#🚩|@vpn_tehran|2.09
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#🚩|@vpn_tehran|2.17
+trojan://telegram-id-privatevpns@16.170.67.94:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|168.59
+trojan://telegram-id-privatevpns@13.53.128.200:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|172.98
+trojan://telegram-id-directvpn@16.16.117.171:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|123.29
+trojan://telegram-id-directvpn@35.180.16.149:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|103
+trojan://telegram-id-directvpn@35.181.230.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|102.59
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.93
+trojan://auto@104.21.90.210:2053?host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws#🚩|@vpn_tehran|3.26
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#🚩|@vpn_tehran|2.25
