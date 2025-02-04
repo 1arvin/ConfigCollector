@@ -1,9 +1,8 @@
-trojan://telegram-id-privatevpns@51.24.17.17:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|97.67
-trojan://telegram-id-privatevpns@54.246.106.47:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|144.09
-trojan://telegram-id-privatevpns@34.249.58.52:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|128.88
-trojan://telegram-id-directvpn@3.72.59.101:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|111.68
-trojan://telegram-id-directvpn@63.177.166.25:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|110.52
-trojan://03bb7640-df39-11ef-a9b1-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#🇬🇧|@v2ray1_ng|165.03
-trojan://tg-fq521free@45.67.215.95:443?host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws#🇷🇺|@VmessProtocol|2.25
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.06
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?headerType=none&security=tls&type=tcp#🇩🇪|@vpn_tehran|141.87
+trojan://telegram-id-privatevpns@54.246.106.47:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|114.26
+trojan://telegram-id-privatevpns@34.249.58.52:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|190.23
+trojan://telegram-id-directvpn@3.72.59.101:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|172.53
+trojan://telegram-id-directvpn@63.177.166.25:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|142.88
+trojan://03bb7640-df39-11ef-a9b1-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#🇬🇧|@v2ray1_ng|204.94
+trojan://tg-fq521free@45.67.215.95:443?host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws#🇷🇺|@VmessProtocol|8.76
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|8.64
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?headerType=none&security=tls&type=tcp#🇩🇪|@vpn_tehran|199.82
