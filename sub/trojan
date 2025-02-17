@@ -1,7 +1,8 @@
-trojan://telegram-id-privatevpns@13.61.203.191:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|101.89
-trojan://telegram-id-privatevpns@13.60.149.22:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|131
-trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#🇬🇧|@v2ray1_ng|103.1
-trojan://bpb-trojan@japan.com:443?host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&type=ws#🚩|@VmessProtocol|2
-trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?headerType=none&security=tls&sni=hezijiasuqi.com&type=tcp#🇭🇰|@VmessProtocol|217.31
-trojan://3747000103274291200@oriented-pug.adder289.quest:443?headerType=none&security=tls&sni=oriented-pug.adder289.quest&type=tcp#🇮🇳|@VmessProtocol|199.11
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.43
+trojan://telegram-id-privatevpns@35.156.44.64:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|148.06
+trojan://telegram-id-privatevpns@63.176.184.253:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|110.1
+trojan://telegram-id-privatevpns@35.181.220.130:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|147.13
+trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#🇬🇧|@v2ray1_ng|98.27
+trojan://bpb-trojan@japan.com:443?host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&type=ws#🚩|@VmessProtocol|4.14
+trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?headerType=none&security=tls&sni=hezijiasuqi.com&type=tcp#🇭🇰|@VmessProtocol|195.18
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|3
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇨🇳|@yaney_01|190.21
