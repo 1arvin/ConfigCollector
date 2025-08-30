@@ -1,7 +1,9 @@
-trojan://telegram-id-privatevpns@35.181.33.238:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|84.9
-trojan://telegram-id-privatevpns@13.39.154.82:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|84.71
-trojan://telegram-id-directvpn@18.158.74.243:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|92.59
-trojan://telegram-id-directvpn@35.181.33.238:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|86.8
-trojan://telegram-id-directvpn@13.39.154.82:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|85
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.42
-trojan://Daily_Configs@104.18.37.146:443?host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws#🚩|@ConfigsHUB|5.3
+trojan://telegram-id-privatevpns@35.181.33.238:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|130.64
+trojan://telegram-id-privatevpns@13.39.154.82:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|148.36
+trojan://telegram-id-directvpn@18.158.74.243:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|136.77
+trojan://telegram-id-directvpn@35.181.33.238:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|130.18
+trojan://telegram-id-directvpn@13.39.154.82:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|134.51
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|8.65
+trojan://NISHIKUITAN222@104.24.247.219:443#🚩|@ConfigsHUB|8.95
+trojan://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443?host=channel-mosiv2.pages.dev&path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&sni=MoSiv2.PaGES.DeV&type=ws#🚩|@ConfigsHUB|8.7
+trojan://auto@172.67.174.21:443?host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev&type=ws#🚩|@ConfigsHUB|8.9
