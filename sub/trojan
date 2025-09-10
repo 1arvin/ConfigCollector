@@ -1,5 +1,10 @@
-trojan://telegram-id-privatevpns@52.47.125.157:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|107.5
-trojan://telegram-id-directvpn@52.47.125.157:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|105.62
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|14.08
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?fp=chrome&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&type=ws#🚩|@ConfigsHUB|14.76
-trojan://bpb-trojan@45.194.53.231:443?allowInsecure=1&sni=bpb.my79801.com&ws=1&wspath=%2Ftr%3Fed%3D2560#🇺🇸|@ConfigsHUB|13.83
+trojan://telegram-id-privatevpns@63.179.68.47:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|158.85
+trojan://telegram-id-privatevpns@52.47.125.157:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|148.32
+trojan://telegram-id-privatevpns@15.188.176.84:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|151.78
+trojan://telegram-id-directvpn@63.179.68.47:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|180.32
+trojan://telegram-id-directvpn@52.47.125.157:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|146
+trojan://telegram-id-directvpn@15.188.176.84:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|175.63
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.56
+trojan://slch2024@192.200.160.87:2096?host=ocost-dy.wmlefl.cc&path=Telegram&security=tls&sni=ocost-dy.wmlefl.cc&type=ws#🇺🇸|@ConfigsHUB|1.87
+trojan://slch2024@192.169.222.87:2096?host=ocost-dy.wmlefl.cc&path=Telegram&security=tls&sni=ocost-dy.wmlefl.cc&type=ws#🇺🇸|@ConfigsHUB|1.97
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇺🇸|@yaney_01|33.17
