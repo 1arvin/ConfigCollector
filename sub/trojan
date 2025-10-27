@@ -1,10 +1,6 @@
-trojan://telegram-id-privatevpns@13.39.140.85:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|110.72
-trojan://telegram-id-privatevpns@3.65.170.75:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|109.97
-trojan://telegram-id-privatevpns@63.178.210.181:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|107.49
-trojan://telegram-id-directvpn@3.65.170.75:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|150.32
-trojan://telegram-id-directvpn@63.178.210.181:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|116.21
-trojan://f689978c12a90981@23.247.137.73:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys|61.99
-trojan://f689978c12a90981@23.247.137.161:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys|50.22
-trojan://f689978c12a90981@88.210.36.107:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys|49.92
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|35.79
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.66
+trojan://telegram-id-directvpn@13.39.140.85:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|97.57
+trojan://f689978c12a90981@23.247.137.73:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys|70.82
+trojan://f689978c12a90981@23.247.137.161:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys|67.29
+trojan://f689978c12a90981@88.210.36.107:443?alpn=h2&security=tls&serviceName=db&sni=TG.WangCai2&type=grpc#🇺🇸|@oneclickvpnkeys|62.62
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|3.23
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.13
