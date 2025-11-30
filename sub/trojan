@@ -1,13 +1,9 @@
-trojan://telegram-id-privatevpns@63.181.72.73:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|162.65
-trojan://telegram-id-privatevpns@13.37.31.160:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|162.57
-trojan://telegram-id-privatevpns@35.180.49.25:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|154.1
-trojan://telegram-id-directvpn@63.181.72.73:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|117.9
-trojan://telegram-id-directvpn@13.37.31.160:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|180.85
-trojan://telegram-id-directvpn@35.180.49.25:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|108.12
-trojan://5fbEkKmVOdAY 8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&type=tcp#🇫🇷|@oneclickvpnkeys|111.16
-trojan://dbq-xg26UXrhLA50236LzydDHgp2bn@94.103.169.70:8443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=qq&security=tls&sni=chat.speedload.ru&type=tcp#🇩🇪|@oneclickvpnkeys|114.61
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?headerType=none&security=tls&sni=kuame.missionsec.us&type=tcp#🇯🇵|@v2ray1_ng|272.29
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|14.49
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol|127.5
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|12.5
-trojan://fa47cf66-c31b-4dc5-a02b-e41830918e40@107.189.3.96:443?fp=randomized&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F107.189.3.96%3D443&security=tls&sni=joss.gpj.web.id&type=ws#🇱🇺|@ConfigsHUB|120.02
+trojan://telegram-id-privatevpns@18.159.127.188:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|88.85
+trojan://telegram-id-directvpn@35.180.49.25:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|83.86
+trojan://telegram-id-directvpn@18.159.127.188:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|138.44
+trojan://5fbEkKmVOdAY 8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&type=tcp#🇫🇷|@oneclickvpnkeys|80.66
+trojan://dbq-xg26UXrhLA50236LzydDHgp2bn@94.103.169.70:8443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=qq&security=tls&sni=chat.speedload.ru&type=tcp#🇩🇪|@oneclickvpnkeys|87.9
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?headerType=none&security=tls&sni=kuame.missionsec.us&type=tcp#🇯🇵|@v2ray1_ng|312.78
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|6.69
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol|111.36
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.85
