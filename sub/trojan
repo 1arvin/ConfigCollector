@@ -1,7 +1,8 @@
-trojan://telegram-id-privatevpns@15.188.133.222:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|193.1
-trojan://telegram-id-directvpn@13.36.44.112:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|130.38
-trojan://telegram-id-directvpn@15.188.133.222:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|192.04
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?headerType=none&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@v2ray1_ng|119.01
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|18.27
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol|152.28
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|17.36
+trojan://telegram-id-privatevpns@3.65.244.233:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|90.37
+trojan://telegram-id-directvpn@13.36.44.112:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|83.57
+trojan://telegram-id-directvpn@3.65.244.233:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|151.04
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?allowInsecure=1&security=tls&sni=diningtable.electricbanana.click&type=tcp#🇨🇦|@oneclickvpnkeys|22.48
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?headerType=none&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@v2ray1_ng|169.08
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|3.23
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol|109.9
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.29
