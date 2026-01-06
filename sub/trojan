@@ -1,8 +1,9 @@
-trojan://telegram-id-directvpn@15.236.130.93:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|135.02
-trojan://telegram-id-directvpn@63.182.39.77:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|89.23
-trojan://telegram-id-directvpn@35.157.192.105:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|90.17
-trojan://BxceQaOe@58.152.25.236:443?security=tls&sni=t.me%2Fripaojiedian&type=tcp#🇭🇰|@oneclickvpnkeys|216.5
-trojan://5a2c16f9@104.17.162.3:443?host=snippets.kkii.eu.org&path=%2F%2F&security=tls&sni=snippets.kkii.eu.org&type=ws#🚩|@oneclickvpnkeys|6.04
-trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096?alpn=h3&fp=edge&host=ts888.yumige.dpdns.org&path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&sni=ts888.yumige.dpdns.org&type=ws#🚩|@oneclickvpnkeys|32.89
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|6.48
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.58
+trojan://telegram-id-privatevpns@63.182.39.77:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|140.57
+trojan://telegram-id-privatevpns@51.45.22.240:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|124.17
+trojan://telegram-id-directvpn@63.182.39.77:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|131.62
+trojan://telegram-id-directvpn@51.45.22.240:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|86.86
+trojan://BxceQaOe@58.152.25.236:443?security=tls&sni=t.me%2Fripaojiedian&type=tcp#🇭🇰|@oneclickvpnkeys|228.55
+trojan://5a2c16f9@104.17.162.3:443?host=snippets.kkii.eu.org&path=%2F%2F&security=tls&sni=snippets.kkii.eu.org&type=ws#🚩|@oneclickvpnkeys|5.74
+trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096?alpn=h3&fp=edge&host=ts888.yumige.dpdns.org&path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&sni=ts888.yumige.dpdns.org&type=ws#🚩|@oneclickvpnkeys|17.03
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|6.54
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|6.21
