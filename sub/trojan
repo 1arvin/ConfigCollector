@@ -1,9 +1,6 @@
-trojan://telegram-id-privatevpns@13.39.200.50:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|86.31
-trojan://telegram-id-directvpn@13.39.200.50:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|85.82
-trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&sni=fi2.nnvpn.io&type=tcp#🇫🇮|@oneclickvpnkeys|326.89
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|7.18
-trojan://IXoJvZ7SJb@de.scpnb.top:44792?fp=chrome&pbk=HuKTPB5e7tzLiGoYPhPRFgHE_1VJNaroU-TTRA9xAyI&security=reality&sid=95&sni=cloudflare.com&type=grpc#🇩🇪|@oneclickvpnkeys|312.21
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|6.72
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|6.01
-trojan://BxceQaOe@58.152.53.219:443?encryption=none&security=tls&sni=t.me%2Fripaojiedian&type=tcp#🇭🇰|@ConfigsHUB|222.43
-trojan://BxceQaOe@58.152.25.236:443?encryption=none&security=tls&sni=t.me%2Fripaojiedian&type=tcp#🇭🇰|@ConfigsHUB|206.22
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|14.5
+trojan://IXoJvZ7SJb@de.scpnb.top:44792?fp=chrome&pbk=HuKTPB5e7tzLiGoYPhPRFgHE_1VJNaroU-TTRA9xAyI&security=reality&sid=95&sni=cloudflare.com&type=grpc#🇩🇪|@oneclickvpnkeys|385.65
+trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&security=tls&sni=t.me%2Fripaojiedian&type=tcp#🇭🇰|@oneclickvpnkeys|180.6
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|15.16
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|15.89
+trojan://BxceQaOe@58.152.53.219:443?headerType=none&security=tls&sni=t.me%2Fripaojiedian&type=tcp#🇭🇰|@ConfigsHUB|unavailable
