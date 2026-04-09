@@ -1,13 +1,14 @@
-trojan://telegram-id-privatevpns@13.37.214.83:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|140.95
-trojan://telegram-id-privatevpns@13.37.25.98:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|149.6
-trojan://telegram-id-directvpn@13.37.214.83:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|144.28
-trojan://telegram-id-directvpn@13.37.25.98:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|148.28
-trojan://n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj@82.26.155.20:10369?allowInsecure=1&sni=fra35.chasem2026sud.com#🇬🇧|@oneclickvpnkeys|338.42
-trojan://n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj@82.26.155.105:10369?allowInsecure=1&sni=fra32.chasem2026sud.com#🇬🇧|@oneclickvpnkeys|unavailable
-trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🚩|@oneclickvpnkeys|9.85
-trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@vmess_vless_v2rayng|1.75
-trojan://humanity@v1.dabache.top:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vmess_vless_v2rayng|2.3
-trojan://humanity@104.18.32.47:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@vmess_vless_v2rayng|1.6
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.59
-trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@vpn_tehran|1.53
-trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vpn_tehran|1.62
+trojan://telegram-id-privatevpns@13.37.214.83:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|107.1
+trojan://telegram-id-privatevpns@52.58.102.35:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|110.06
+trojan://telegram-id-directvpn@13.37.214.83:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|104.48
+trojan://telegram-id-directvpn@13.37.25.98:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|107.22
+trojan://telegram-id-directvpn@52.58.102.35:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|112.31
+trojan://n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj@82.26.155.20:10369?allowInsecure=1&sni=fra35.chasem2026sud.com#🇬🇧|@oneclickvpnkeys|214.57
+trojan://n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj@82.26.155.105:10369?allowInsecure=1&sni=fra32.chasem2026sud.com#🇬🇧|@oneclickvpnkeys|214.73
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🚩|@oneclickvpnkeys|14.54
+trojan://humanity@172.64.152.23:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#🚩|@vmess_vless_v2rayng|2.52
+trojan://humanity@v1.dabache.top:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vmess_vless_v2rayng|3.55
+trojan://humanity@104.18.32.47:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@vmess_vless_v2rayng|3.14
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.85
+trojan://humanity@104.18.32.37:443?allowInsecure=0&fp=chrome&insecure=0&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#🚩|@vpn_tehran|2.62
+trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#🚩|@vpn_tehran|2.69
