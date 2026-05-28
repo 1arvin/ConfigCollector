@@ -1,9 +1,8 @@
-trojan://telegram-id-privatevpns@51.44.95.202:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|104.68
-trojan://telegram-id-privatevpns@15.224.91.104:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|107.13
-trojan://telegram-id-directvpn@51.44.95.202:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|104.68
-trojan://telegram-id-directvpn@15.224.91.104:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|106.99
-trojan://mitivpn@208.103.161.175:443?allowInsecure=0&host=cdn.iranpoems.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=cdn.iranpoems.ir&type=ws#🇺🇸|@NetAccount|2.54
-trojan://mitivpn@208.103.161.39:443?allowInsecure=0&host=cdn.iranpoems.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=cdn.iranpoems.ir&type=ws#🇺🇸|@NetAccount|2.69
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=%F0%9F%94%92#🇦🇱|@oneclickvpnkeys|105.24
-trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|3.41
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.47
+trojan://telegram-id-privatevpns@15.224.25.236:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|107.39
+trojan://telegram-id-directvpn@15.224.25.236:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|105.16
+trojan://mitivpn@208.103.161.175:443?allowInsecure=0&host=cdn.iranpoems.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=cdn.iranpoems.ir&type=ws#🇺🇸|@NetAccount|1.96
+trojan://mitivpn@208.103.161.39:443?allowInsecure=0&host=cdn.iranpoems.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=cdn.iranpoems.ir&type=ws#🇺🇸|@NetAccount|2.95
+trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|3.63
+trojan://humanity@104.17.121.71:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|3.32
+trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|2.34
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.04
