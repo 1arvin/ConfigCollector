@@ -1,7 +1,8 @@
-trojan://telegram-id-directvpn@3.122.176.19:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|148.03
-trojan://mitivpn@208.103.161.175:443?allowInsecure=0&host=cdn.iranpoems.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=cdn.iranpoems.ir&type=ws#🇺🇸|@NetAccount|2.25
-trojan://mitivpn@208.103.161.39:443?allowInsecure=0&host=cdn.iranpoems.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=cdn.iranpoems.ir&type=ws#🇺🇸|@NetAccount|1.75
-trojan://humanity@141.101.90.101:443?alpn=http%2F1.1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🚩|@oneclickvpnkeys|1.57
-trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&type=ws#🚩|@oneclickvpnkeys|2.52
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#🇺🇸|@oneclickvpnkeys|38.42
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.75
+trojan://telegram-id-privatevpns@3.122.176.19:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|89.89
+trojan://telegram-id-directvpn@3.122.176.19:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|89.53
+trojan://mitivpn@208.103.161.175:443?allowInsecure=0&host=cdn.iranpoems.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=cdn.iranpoems.ir&type=ws#🇺🇸|@NetAccount|1.97
+trojan://mitivpn@208.103.161.39:443?allowInsecure=0&host=cdn.iranpoems.ir&insecure=0&path=%2F%3Fed%3D2048&security=tls&sni=cdn.iranpoems.ir&type=ws#🇺🇸|@NetAccount|1.8
+trojan://humanity@141.101.90.101:443?alpn=http%2F1.1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🚩|@oneclickvpnkeys|1.47
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&type=ws#🚩|@oneclickvpnkeys|3.73
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#🇺🇸|@oneclickvpnkeys|36.12
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.3
