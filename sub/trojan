@@ -1,5 +1,7 @@
-trojan://telegram-id-directvpn@51.44.104.68:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|176.44
-trojan://Mitivpn@216.24.57.6:443?alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=dash.hitgram.ir&path=%2F&sni=dash.hitgram.ir&type=ws#🇺🇸|@oneclickvpnkeys|17.92
-trojan://Mitivpn@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=www.hitgram.ir&path=%2F&sni=www.hitgram.ir&type=ws#🇸🇨|@oneclickvpnkeys|18.81
-trojan://Mitivpn@216.24.57.251:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#🇺🇸|@oneclickvpnkeys|17.9
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|18.41
+trojan://telegram-id-privatevpns@63.185.3.163:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|99.71
+trojan://telegram-id-directvpn@63.185.71.248:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|112.57
+trojan://telegram-id-directvpn@63.185.3.163:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|153.2
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&type=ws#🚩|@oneclickvpnkeys|2.99
+trojan://Mitivpn@45.130.125.76:2053?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=dash.hitgram.ir&path=%2F&sni=dash.hitgram.ir&type=ws#🇸🇨|@oneclickvpnkeys|2.81
+trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|2.68
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.82
