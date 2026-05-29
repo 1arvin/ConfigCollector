@@ -1,4 +1,5 @@
-trojan://Mitivpn@216.24.57.6:443?alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=dash.hitgram.ir&path=%2F&sni=dash.hitgram.ir&type=ws#🇺🇸|@oneclickvpnkeys|1.93
-trojan://Mitivpn@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=www.hitgram.ir&path=%2F&sni=www.hitgram.ir&type=ws#🇸🇨|@oneclickvpnkeys|2.69
-trojan://Mitivpn@216.24.57.251:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#🇺🇸|@oneclickvpnkeys|1.49
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.85
+trojan://telegram-id-directvpn@51.44.104.68:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|176.44
+trojan://Mitivpn@216.24.57.6:443?alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=dash.hitgram.ir&path=%2F&sni=dash.hitgram.ir&type=ws#🇺🇸|@oneclickvpnkeys|17.92
+trojan://Mitivpn@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=www.hitgram.ir&path=%2F&sni=www.hitgram.ir&type=ws#🇸🇨|@oneclickvpnkeys|18.81
+trojan://Mitivpn@216.24.57.251:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#🇺🇸|@oneclickvpnkeys|17.9
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|18.41
