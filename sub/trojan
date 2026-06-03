@@ -1,10 +1,7 @@
-trojan://telegram-id-privatevpns@13.36.49.197:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|82.69
-trojan://telegram-id-privatevpns@35.181.10.177:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|84.58
-trojan://telegram-id-directvpn@13.36.49.197:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|87.02
-trojan://telegram-id-directvpn@35.181.10.177:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|84.72
-trojan://telegram-id-directvpn@3.126.110.8:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|113.72
-trojan://A4u^p(_UR*F6@irancell.buzzmuzzpanel.online:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&type=ws#🚩|@oneclickvpnkeys|18.83
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#🇩🇪|@oneclickvpnkeys|172.84
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#🇩🇪|@oneclickvpnkeys|90.05
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.63
-trojan://0jvOqSPtoC@45.130.125.76:443?allowInsecure=0&fp=chrome&path=%2F%3Fed%3D2048&security=tls&sni=da.aananas.ir&type=ws#🇸🇨|@v2ray_vpn_ir|2.77
+trojan://telegram-id-directvpn@35.181.245.85:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|101.08
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#🇩🇪|@oneclickvpnkeys|110.2
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#🇵🇱|@oneclickvpnkeys|130.27
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&type=ws#🚩|@oneclickvpnkeys|2.46
+trojan://humanity@104.19.229.21:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🚩|@VmessProtocol|2.57
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.24
+trojan://0jvOqSPtoC@45.130.125.76:443?allowInsecure=0&fp=chrome&path=%2F%3Fed%3D2048&security=tls&sni=da.aananas.ir&type=ws#🇸🇨|@v2ray_vpn_ir|4.31
