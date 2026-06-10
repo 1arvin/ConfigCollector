@@ -1,8 +1,10 @@
-trojan://telegram-id-privatevpns@13.37.194.137:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|82.9
-trojan://telegram-id-privatevpns@13.38.194.86:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|88.58
-trojan://telegram-id-directvpn@13.37.194.137:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|84.21
-trojan://telegram-id-directvpn@13.38.194.86:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|85.23
-trojan://lTLVIqIvFqp es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?fp=chrome#🇨🇦|@oneclickvpnkeys|17.57
-trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&type=ws#🚩|@oneclickvpnkeys|4.21
-trojan://humanity@104.19.229.21:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🚩|@VmessProtocol|6.99
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.58
+trojan://telegram-id-privatevpns@52.57.0.56:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|152.6
+trojan://telegram-id-privatevpns@13.37.194.137:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|150.46
+trojan://telegram-id-privatevpns@13.38.194.86:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|149.18
+trojan://telegram-id-directvpn@52.57.0.56:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|152.77
+trojan://telegram-id-directvpn@13.37.194.137:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|165.42
+trojan://telegram-id-directvpn@13.38.194.86:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|161.97
+trojan://lTLVIqIvFqp es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?fp=chrome#🇨🇦|@oneclickvpnkeys|63.91
+trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&type=ws#🚩|@oneclickvpnkeys|2.77
+trojan://humanity@104.19.229.21:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🚩|@VmessProtocol|2.03
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.06
