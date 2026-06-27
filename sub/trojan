@@ -1,12 +1,13 @@
-trojan://telegram-id-privatevpns@13.39.71.117:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|87.17
-trojan://telegram-id-privatevpns@63.182.114.24:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|91.77
-trojan://telegram-id-privatevpns@18.159.170.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|91.52
-trojan://telegram-id-directvpn@63.182.114.24:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|90.47
-trojan://telegram-id-directvpn@18.159.170.71:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|91.43
-trojan://humanity@45.130.125.126:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇸🇨|@oneclickvpnkeys|2.56
-trojan://humanity@198.62.62.23:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇺🇸|@oneclickvpnkeys|1.63
-trojan://humanity@104.20.42.250:443?alpn=http%2F1.1&fp=ios&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🚩|@oneclickvpnkeys|1.77
-trojan://humanity@188.114.97.6:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@v2ray1_ng|2.02
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?host=space.byu.id.yxls.eu.cc&path=%2Fus-gllc&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#🚩|@v2ray1_ng|1.87
-trojan://humanity@141.193.213.21:443?allowInsecure=0&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🇺🇸|@VmessProtocol|2.72
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.51
+trojan://telegram-id-privatevpns@63.182.114.24:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|147.09
+trojan://telegram-id-privatevpns@18.159.170.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|150.39
+trojan://telegram-id-privatevpns@51.45.54.27:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|142.21
+trojan://telegram-id-directvpn@63.182.114.24:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|147.42
+trojan://telegram-id-directvpn@18.159.170.71:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|150.68
+trojan://telegram-id-directvpn@51.45.54.27:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|146.59
+trojan://humanity@198.62.62.23:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇺🇸|@oneclickvpnkeys|1.64
+trojan://humanity@104.20.42.250:443?alpn=http%2F1.1&fp=ios&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🚩|@oneclickvpnkeys|1.42
+trojan://O4O8.Ew ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.58.89:443#🇺🇸|@oneclickvpnkeys|11.12
+trojan://humanity@188.114.97.6:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🚩|@v2ray1_ng|1.63
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?host=space.byu.id.yxls.eu.cc&path=%2Fus-gllc&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#🚩|@v2ray1_ng|1.59
+trojan://humanity@141.193.213.21:443?allowInsecure=0&host=www.calmloud.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#🇺🇸|@VmessProtocol|1.51
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.64
