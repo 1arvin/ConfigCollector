@@ -1,8 +1,7 @@
-trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?headerType=http&host=www.upwork.com&security=none&type=tcp#🇨🇭|@oneclickvpnkeys|109.36
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|3.8
-trojan://humanity@188.42.145.180:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.volumeroot.com&insecure=0&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🇱🇺|@v2ray1_ng|3.07
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🇺🇸|@ovpn2|1.93
-trojan://humanity@8.47.69.0:443?allowInsecure=0&alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@vpn_tehran|2.21
-trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=1&sni=comic-poodle.rooster465.autos#🇯🇵|@ConfigsHUB|425.88
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?allowInsecure=1&sni=pleased-albacore.rooster465.autos#🇩🇪|@ConfigsHUB|116.52
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=1&sni=fancy-javelin.rooster465.autos#🇯🇵|@ConfigsHUB|150.92
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🚩|@oneclickvpnkeys|11.4
+trojan://UX82473651@3.120.109.26:443?allowInsecure=1&sni=actual-squid.rooster465.autos#🇩🇪|@oneclickvpnkeys|128.45
+trojan://UX82473651@actual-squid.rooster465.autos:443?allowInsecure=1#🇩🇪|@oneclickvpnkeys|323.4
+trojan://humanity@188.42.145.180:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=www.volumeroot.com&insecure=0&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#🇱🇺|@v2ray1_ng|6.37
+trojan://humanity@188.114.97.6:443?allowInsecure=0&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@v2ray1_ng|9.75
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🇺🇸|@ovpn2|13.24
+trojan://humanity@8.47.69.0:443?allowInsecure=0&alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#🚩|@vpn_tehran|9.88
